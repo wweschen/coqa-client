@@ -1,0 +1,10 @@
+{
+  "n_best_size": 4,
+  "max_answer_length": 30,
+  "max_seq_length": 384,
+  "max_query_length": 128,
+  "doc_stride": 128,
+  "do_lower_case": true,
+  "vocab_file": "../dataprocess/vocab.txt",
+  "model_api": "http://192.168.1.13:8501/v1/models/coqa:predict"
+}
