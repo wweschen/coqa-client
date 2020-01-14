@@ -4,6 +4,6 @@ This is a testing and demo tool for my TF2 model on CoQA data.  It can let you p
 
 For a data analysis of CoQA dataset, please see my [notebook](https://github.com/wweschen/Capstone/blob/master/CoQA%20dataset%20analysis.ipynb)
 
-See it in action [here](http://11759adb.ngrok.io), if my server stays up. In case the site is not up, see the following screen shot to get a feel how it works.
+See it in action [here](http://wweschen.ngrok.io), if my server stays up. In case the site is not up, see the following screen shot to get a feel how it works.
 
 ![Alt text](./ScreenShot.png?raw=true "screen shot for web page")
