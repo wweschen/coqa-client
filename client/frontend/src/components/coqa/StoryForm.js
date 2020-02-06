@@ -39,6 +39,7 @@ export class StoryForm extends Component {
                             className="form-control"
                             type="text"
                             name="story"
+                            rows="10" style="height:100%;"
                             onChange={this.onChange}
                             value={story}
                         />
