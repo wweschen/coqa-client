@@ -7,3 +7,20 @@ For a data analysis of CoQA dataset, please see my [notebook](https://github.com
 See it in action [here](http://wweschen.ngrok.io), if my server stays up. In case the site is not up, see the following screen shot to get a feel how it works.
 
 ![Alt text](./ScreenShot.png?raw=true "screen shot for web page")
+
+
+## Quick Start
+```diff
+# Install dependencies
+npm install
+
+# Serve API on localhost:8000
+python client/manage.py runserver
+
+# Run webpack (from root)
+npm run dev
+
+# Build for production
+npm run build
+
+```
